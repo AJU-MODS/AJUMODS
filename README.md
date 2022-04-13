@@ -1,1 +1,1 @@
-# AJUMODS
+{'ver1':'8', 'ver2':'60', 'ver3':'\n• Base updated to 2.21.4.22\n• Re-Added Ab\n' , 'dli':'https://ajumodsapkstore.blogspot.com/2021/11/aju-whatsapp-latest-wa.html', 'exp845':'1', 'exp865':'1', 'exp850':'1', 'exp851':'100', 'exp860':'1', 'exp886':'250'}
